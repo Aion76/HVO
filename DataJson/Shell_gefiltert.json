@@ -1,0 +1,937 @@
+{
+    "locations": [
+        {
+            "address1": "Am Steinsfelder Wasser 12",
+            "city": "Suhl",
+            "country": "Germany",
+            "email": "info@wdorst.de",
+            "id": "9",
+            "latitude": 50.6339451,
+            "longitude": 10.7047239,
+            "name": "W. Dorst GmbH",
+            "postcode": "98528",
+            "state": "Th\u00fcringen",
+            "telephone": "03681 89890",
+            "formatted_address": "Am Steinsfelder Wasser 12\n98528\nSuhl",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Bavenstedter Stra\u00dfe 100",
+            "city": "Hildesheim",
+            "country": "Germany",
+            "email": "hildesheim@mundt.de",
+            "id": "133",
+            "latitude": 52.16688,
+            "longitude": 9.97988,
+            "name": "Mundt GmbH Hannover",
+            "postcode": "31135",
+            "state": "Niedersachsen",
+            "telephone": "05121 76960",
+            "formatted_address": "Bavenstedter Stra\u00dfe 100\n31135\nHildesheim",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Waller See 19",
+            "city": "Schw\u00fclper",
+            "country": "Germany",
+            "email": "braunschweig@mundt.de",
+            "id": "134",
+            "latitude": 52.3263429,
+            "longitude": 10.4804043,
+            "name": "Mundt GmbH Hannover",
+            "postcode": "38179",
+            "state": "Niedersachsen",
+            "telephone": "0531 48272070",
+            "formatted_address": "Waller See 19\n38179\nSchw\u00fclper",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Am Hafen 20",
+            "city": "Hameln",
+            "country": "Germany",
+            "email": "hameln@mundt.de",
+            "id": "242",
+            "latitude": 52.0962123,
+            "longitude": 9.3582962,
+            "name": "Mundt Energie Service Hameln",
+            "postcode": "31785",
+            "state": "Niedersachsen",
+            "telephone": "05151 7871361",
+            "formatted_address": "Am Hafen 20\n31785\nHameln",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "An der Bahn 7",
+            "city": "Niederlauer",
+            "country": "Germany",
+            "email": "info@wdorst.de",
+            "id": "3",
+            "latitude": 50.29234,
+            "longitude": 10.1874513,
+            "name": "W. Dorst GmbH",
+            "postcode": "97618",
+            "state": "Bayern",
+            "telephone": "09776 81660",
+            "formatted_address": "An der Bahn 7\n97618\nNiederlauer",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Saalestra\u00dfe 5",
+            "city": "Magdeburg",
+            "country": "Germany",
+            "email": "magdeburg@mundt.de",
+            "id": "71",
+            "latitude": 52.15783,
+            "longitude": 11.66318,
+            "name": "Mundt GmbH Magdeburg",
+            "postcode": "39126",
+            "state": "Sachsen-Anhalt",
+            "telephone": "0391 508000",
+            "formatted_address": "Saalestra\u00dfe 5\n39126\nMagdeburg",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Davenstedter Stra\u00dfe 138",
+            "city": "Hannover",
+            "country": "Germany",
+            "email": "h-mineraloel@mundt.de",
+            "id": "137",
+            "latitude": 52.3659651,
+            "longitude": 9.6825587,
+            "name": "Mundt GmbH Hannover",
+            "postcode": "30453",
+            "state": "Niedersachsen",
+            "telephone": "0511 219900",
+            "formatted_address": "Davenstedter Stra\u00dfe 138\n30453\nHannover",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Osterstra\u00dfe 7",
+            "city": "Barsinghausen",
+            "country": "Germany",
+            "email": "barsinghausen@mundt.de",
+            "id": "135",
+            "latitude": 52.3019137,
+            "longitude": 9.4667511,
+            "name": "Mundt GmbH Hannover",
+            "postcode": "30890",
+            "state": "Niedersachsen",
+            "telephone": "05105 3013",
+            "formatted_address": "Osterstra\u00dfe 7\n30890\nBarsinghausen",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Bahnhofstra\u00dfe 24",
+            "city": "Hofheim",
+            "country": "Germany",
+            "email": "info@huempfner-mineraloele.de",
+            "id": "11",
+            "latitude": 50.13517,
+            "longitude": 10.5198,
+            "name": "H\u00fcmpfner Mineral\u00f6le",
+            "postcode": "97461",
+            "state": "Bayern",
+            "telephone": "09523 440",
+            "formatted_address": "Bahnhofstra\u00dfe 24\n97461\nHofheim",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Braunschweiger Heerstra\u00dfe 113a",
+            "city": "Celle",
+            "country": "Germany",
+            "email": "service@mundt.de",
+            "id": "241",
+            "latitude": 52.5838711,
+            "longitude": 10.1183396,
+            "name": "Mundt GmbH Hannover",
+            "postcode": "29277",
+            "state": "Niedersachsen",
+            "telephone": "05141 91770*",
+            "formatted_address": "Braunschweiger Heerstra\u00dfe 113a\n29277\nCelle",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Am Seewasem 1",
+            "city": "Biedenkopf",
+            "country": "Germany",
+            "email": "",
+            "id": "HZ000127",
+            "latitude": 50.9059560973,
+            "longitude": 8.5340476423,
+            "name": "Reibert Holding GmbH",
+            "postcode": "35216",
+            "state": "Hessen",
+            "telephone": "(06461) 958 50",
+            "formatted_address": "Am Seewasem 1\n35216\nBiedenkopf",
+            "brand": "AVP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Hafenstr. 2",
+            "city": "Schweinfurt",
+            "country": "Germany",
+            "email": "",
+            "id": "HZ000111",
+            "latitude": 50.0303018662,
+            "longitude": 10.2218751288,
+            "name": "Erik Walther GmbH & Co. KG",
+            "postcode": "97424",
+            "state": "Bayern",
+            "telephone": "09721 6587-0",
+            "formatted_address": "Hafenstr. 2\n97424\nSchweinfurt",
+            "brand": "AVP",
+            "fuels": [
+                "biodiesel",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Herborner Stra\u00dfe 27",
+            "city": "Gladenbach",
+            "country": "Germany",
+            "email": "energie@mineraloeljung.de",
+            "id": "22",
+            "latitude": 50.7515249,
+            "longitude": 8.5522573,
+            "name": "Mineral\u00f6l Jung GmbH & Co. KG",
+            "postcode": "35075",
+            "state": "Hessen",
+            "telephone": "06462 92640",
+            "formatted_address": "Herborner Stra\u00dfe 27\n35075\nGladenbach",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Gottlieb-Daimler-Str. 7",
+            "city": "Gie\u00dfen",
+            "country": "Germany",
+            "email": "tankstelle@roth-energie.de",
+            "id": "HZ000100",
+            "latitude": 50.598060321,
+            "longitude": 8.6504906831,
+            "name": "Adolf Roth GmbH & Co. KG",
+            "postcode": "35398",
+            "state": "Hessen",
+            "telephone": "02672 914 800",
+            "formatted_address": "Gottlieb-Daimler-Str. 7\n35398\nGie\u00dfen",
+            "brand": "AVP",
+            "fuels": [
+                "gtl",
+                "biodiesel",
+                "shell_hvo",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "W\u00fcrzburger Stra\u00dfe 71",
+            "city": "Gem\u00fcnden",
+            "country": "Germany",
+            "email": "info@gumppenergie.de",
+            "id": "10",
+            "latitude": 50.0618599,
+            "longitude": 9.6774879,
+            "name": "Gumpp-Energie",
+            "postcode": "97737",
+            "state": "Bayern",
+            "telephone": "09351 60220",
+            "formatted_address": "W\u00fcrzburger Stra\u00dfe 71\n97737\nGem\u00fcnden",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Wetterstr. 30",
+            "city": "Butzbach",
+            "country": "Germany",
+            "email": "info@gilbert-energie.de",
+            "id": "17",
+            "latitude": 50.4414407,
+            "longitude": 8.7030301,
+            "name": "Gilbert Energiehandelsgesellschaft mbH",
+            "postcode": "35510",
+            "state": "Hessen",
+            "telephone": "06033 950900",
+            "formatted_address": "Wetterstr. 30\n35510\nButzbach",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Bachstr. 10",
+            "city": "B\u00fcnde",
+            "country": "Germany",
+            "email": "info@behrenswerth.de",
+            "id": "190",
+            "latitude": 52.19178,
+            "longitude": 8.58076,
+            "name": "Behrenswerth Energieservice GmbH",
+            "postcode": "32257",
+            "state": "Nordrhein-Westfalen",
+            "telephone": "05223 650640-0",
+            "formatted_address": "Bachstr. 10\n32257\nB\u00fcnde",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Mainstra\u00dfe 6",
+            "city": "Bamberg",
+            "country": "Germany",
+            "email": "geiger-ansbach@t-online.de",
+            "id": "18",
+            "latitude": 49.9092428,
+            "longitude": 10.8635771,
+            "name": "Geiger GmbH",
+            "postcode": "96052",
+            "state": "Bayern",
+            "telephone": "0951  917 24 84",
+            "formatted_address": "Mainstra\u00dfe 6\n96052\nBamberg",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "IM HOEFCHEN 8",
+            "city": "DILLENBURG",
+            "country": "Germany",
+            "email": "",
+            "id": "AV000133",
+            "latitude": 50.76209,
+            "longitude": 8.27534,
+            "name": "WILHELM CLAAS GMBH",
+            "postcode": "35685",
+            "state": "Hessen",
+            "telephone": "(02771) 81690",
+            "formatted_address": "IM HOEFCHEN 8\n35685\nDILLENBURG",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "UNTERE INDUSTRIESTR. 67",
+            "city": "NETPHEN",
+            "country": "Germany",
+            "email": "",
+            "id": "D4000134",
+            "latitude": 50.90792,
+            "longitude": 8.07798,
+            "name": "GERD FELSCH GMBH",
+            "postcode": "57250",
+            "state": "Nordrhein-Westfalen",
+            "telephone": " 0271/31324-0",
+            "formatted_address": "UNTERE INDUSTRIESTR. 67\n57250\nNETPHEN",
+            "brand": "AVP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Kalteicher-Ring 42",
+            "city": "Haiger",
+            "country": "Germany",
+            "email": "haiger@bellersheim.de",
+            "id": "227",
+            "latitude": 50.771136,
+            "longitude": 8.1543254,
+            "name": "H. + R. Bellersheim GmbH",
+            "postcode": "35708",
+            "state": "Hessen",
+            "telephone": "02773 91699200",
+            "formatted_address": "Kalteicher-Ring 42\n35708\nHaiger",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Max von Lauerstr. 12",
+            "city": "W\u00fcrzburg",
+            "country": "Germany",
+            "email": "\u00a0service@baywa.de",
+            "id": "HZ000103",
+            "latitude": 49.8123135174,
+            "longitude": 9.8910913153,
+            "name": "Baywa AG",
+            "postcode": "97080",
+            "state": "Bayern",
+            "telephone": "0800 560 060 0",
+            "formatted_address": "Max von Lauerstr. 12\n97080\nW\u00fcrzburg",
+            "brand": "AVP",
+            "fuels": [
+                "gtl",
+                "biodiesel",
+                "shell_hvo",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Oldendorfer Str. 32",
+            "city": "Melle",
+            "country": "Germany",
+            "email": "info@behrenswerth.de",
+            "id": "202",
+            "latitude": 52.2092509,
+            "longitude": 8.3355577,
+            "name": "Behrenswerth Energieservice GmbH",
+            "postcode": "49324",
+            "state": "Niedersachsen",
+            "telephone": "05422-5781",
+            "formatted_address": "Oldendorfer Str. 32\n49324\nMelle",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Randersackerer Str. 32",
+            "city": "W\u00fcrzburg",
+            "country": "Germany",
+            "email": "info@herm.net",
+            "id": "203",
+            "latitude": 49.778792,
+            "longitude": 9.9377682,
+            "name": "Herm GmbH & Co. KG",
+            "postcode": "97072",
+            "state": "Bayern",
+            "telephone": "0931-73126",
+            "formatted_address": "Randersackerer Str. 32\n97072\nW\u00fcrzburg",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "M\u00fcnsterstra\u00dfe 43",
+            "city": "Hilter",
+            "country": "Germany",
+            "email": "info@behrenswerth.de",
+            "id": "73",
+            "latitude": 52.1354662,
+            "longitude": 8.1168881,
+            "name": "Behrenswerth Energieservice GmbH",
+            "postcode": "49176",
+            "state": "Niedersachsen",
+            "telephone": "05424 647090",
+            "formatted_address": "M\u00fcnsterstra\u00dfe 43\n49176\nHilter",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Str\u00f6her Str. 6",
+            "city": "Varrel",
+            "country": "Germany",
+            "email": "",
+            "id": "HZ000112",
+            "latitude": 52.6078405326,
+            "longitude": 8.7249221865,
+            "name": "Fritz Nuttlemann GmbH",
+            "postcode": "24026",
+            "state": "Niedersachsen",
+            "telephone": "04274 312",
+            "formatted_address": "Str\u00f6her Str. 6\n24026\nVarrel",
+            "brand": "AVP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Dr.-Martin-Luther-Str. 2",
+            "city": "Ochsenfurt",
+            "country": "Germany",
+            "email": "info@herm.net",
+            "id": "204",
+            "latitude": 49.6640025,
+            "longitude": 10.0709014,
+            "name": "Herm GmbH & Co. KG",
+            "postcode": "97199",
+            "state": "Bayern",
+            "telephone": "09331-87480",
+            "formatted_address": "Dr.-Martin-Luther-Str. 2\n97199\nOchsenfurt",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Mergentheimer Str. 46",
+            "city": "Giebelstadt",
+            "country": "Germany",
+            "email": "info@herm.net",
+            "id": "205",
+            "latitude": 49.64859,
+            "longitude": 9.94791,
+            "name": "Herm GmbH & Co. KG",
+            "postcode": "97232",
+            "state": "Baden-W\u00fcrttemberg",
+            "telephone": "09334-970199",
+            "formatted_address": "Mergentheimer Str. 46\n97232\nGiebelstadt",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Rudolf-Diesel-Str. 1",
+            "city": "Visselh\u00f6vede",
+            "country": "Germany",
+            "email": "",
+            "id": "HZ000132",
+            "latitude": 52.980790927,
+            "longitude": 9.5989473884,
+            "name": "Wilhelm Hoyer GmbH & Co. KG",
+            "postcode": "27374",
+            "state": "Niedersachsen",
+            "telephone": "(04262) 799 976",
+            "formatted_address": "Rudolf-Diesel-Str. 1\n27374\nVisselh\u00f6vede",
+            "brand": "AVP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Idsteiner Str. 23",
+            "city": "Idstein-Walsdorf",
+            "country": "Germany",
+            "email": "info@schwarz-mineraloele.de",
+            "id": "248",
+            "latitude": 50.26893,
+            "longitude": 8.2766313,
+            "name": "Heinrich Schwarz GmbH",
+            "postcode": "65110",
+            "state": "Hessen",
+            "telephone": "06434 7010",
+            "formatted_address": "Idsteiner Str. 23\n65110\nIdstein-Walsdorf",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "biodiesel",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Lindenweg 39",
+            "city": "Tauberbischofsheim",
+            "country": "Germany",
+            "email": "info@herm.net",
+            "id": "23",
+            "latitude": 49.6210688,
+            "longitude": 9.6511093,
+            "name": "Herm GmbH & Co. KG",
+            "postcode": "97941",
+            "state": "Baden-W\u00fcrttemberg",
+            "telephone": "09341  2297",
+            "formatted_address": "Lindenweg 39\n97941\nTauberbischofsheim",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Ankergasse 38",
+            "city": "Miltenberg",
+            "country": "Germany",
+            "email": "info@herm.net",
+            "id": "24",
+            "latitude": 49.7019294,
+            "longitude": 9.2559213,
+            "name": "Herm GmbH & Co. KG",
+            "postcode": "63897",
+            "state": "Bayern",
+            "telephone": "09371  2320",
+            "formatted_address": "Ankergasse 38\n63897\nMiltenberg",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Tauberstra\u00dfe 11",
+            "city": "Lauda-K\u00f6nigshofen",
+            "country": "Germany",
+            "email": "info@herm.net",
+            "id": "25",
+            "latitude": 49.56825,
+            "longitude": 9.70807,
+            "name": "Herm GmbH & Co. KG",
+            "postcode": "97922",
+            "state": "Baden-W\u00fcrttemberg",
+            "telephone": "09343 62220",
+            "formatted_address": "Tauberstra\u00dfe 11\n97922\nLauda-K\u00f6nigshofen",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "W\u00fcrzburger Stra\u00dfe 64",
+            "city": "Hardheim",
+            "country": "Germany",
+            "email": "annegret.knuettel@lenz-energie.de",
+            "id": "26",
+            "latitude": 49.61148,
+            "longitude": 9.48732,
+            "name": "Lenz Energie AG",
+            "postcode": "74736",
+            "state": "Baden-W\u00fcrttemberg",
+            "telephone": "06283  505 31",
+            "formatted_address": "W\u00fcrzburger Stra\u00dfe 64\n74736\nHardheim",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Wilhelm Frank Stra\u00dfe 54",
+            "city": "Bad Mergentheim",
+            "country": "Germany",
+            "email": "info@herm.net",
+            "id": "30",
+            "latitude": 49.49763,
+            "longitude": 9.755,
+            "name": "Herm GmbH & Co. KG",
+            "postcode": "97980",
+            "state": "Baden-W\u00fcrttemberg",
+            "telephone": "07931  7280",
+            "formatted_address": "Wilhelm Frank Stra\u00dfe 54\n97980\nBad Mergentheim",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Zu den Dill\u00e4ckern 1",
+            "city": "Buchen",
+            "country": "Germany",
+            "email": "info@herm.net",
+            "id": "31",
+            "latitude": 49.5223058,
+            "longitude": 9.3353639,
+            "name": "Herm GmbH & Co. KG",
+            "postcode": "74722",
+            "state": "Baden-W\u00fcrttemberg",
+            "telephone": "06281 2308",
+            "formatted_address": "Zu den Dill\u00e4ckern 1\n74722\nBuchen",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Merchinger Str. 1",
+            "city": "Osterburken",
+            "country": "Germany",
+            "email": "info@herm.net",
+            "id": "207",
+            "latitude": 49.42802,
+            "longitude": 9.42739,
+            "name": "Herm GmbH & Co. KG",
+            "postcode": "74706",
+            "state": "Baden-W\u00fcrttemberg",
+            "telephone": "06291-64210",
+            "formatted_address": "Merchinger Str. 1\n74706\nOsterburken",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Boschstr. 11",
+            "city": "Winsen (Luhe)",
+            "country": "Germany",
+            "email": "",
+            "id": "HZ000116",
+            "latitude": 53.3726971068,
+            "longitude": 10.2350904712,
+            "name": "Hoyer Mineral\u00f6lhandel",
+            "postcode": "21423",
+            "state": "Niedersachsen",
+            "telephone": "(0)417164302",
+            "formatted_address": "Boschstr. 11\n21423\nWinsen (Luhe)",
+            "brand": "AVP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Poststr. 13",
+            "city": "Rosengarten",
+            "country": "Germany",
+            "email": "",
+            "id": "HZ000114",
+            "latitude": 53.3674908211,
+            "longitude": 9.9404981847,
+            "name": "Frommann Energie GmbH",
+            "postcode": "21224",
+            "state": "Niedersachsen",
+            "telephone": "04105651070",
+            "formatted_address": "Poststr. 13\n21224\nRosengarten",
+            "brand": "AVP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Im Riedle 1",
+            "city": "Blaufelden",
+            "country": "Germany",
+            "email": "info@herm.net",
+            "id": "208",
+            "latitude": 49.29603,
+            "longitude": 9.97872,
+            "name": "Herm GmbH & Co. KG",
+            "postcode": "74572",
+            "state": "Baden-W\u00fcrttemberg",
+            "telephone": "06291-64210",
+            "formatted_address": "Im Riedle 1\n74572\nBlaufelden",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Rudolf-Diesel-Stra\u00dfe 5",
+            "city": "Ansbach",
+            "country": "Germany",
+            "email": "verkauf@geigergmbh.de",
+            "id": "19",
+            "latitude": 49.25732,
+            "longitude": 10.61551,
+            "name": "Geiger GmbH",
+            "postcode": "91522",
+            "state": "Bayern",
+            "telephone": "0981 970950",
+            "formatted_address": "Rudolf-Diesel-Stra\u00dfe 5\n91522\nAnsbach",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Windhukstr. 1",
+            "city": "Bremen",
+            "country": "Germany",
+            "email": "heizoel@bmoe.de",
+            "id": "101",
+            "latitude": 53.1285939,
+            "longitude": 8.7255674,
+            "name": "Bremer Mineral\u00f6lhandel GmbH",
+            "postcode": "28237",
+            "state": "Bremen",
+            "telephone": "0421 643890",
+            "formatted_address": "Windhukstr. 1\n28237\nBremen",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Talstra\u00dfe 2 A",
+            "city": "Waldbrunn/Schollbrunn",
+            "country": "Germany",
+            "email": "volker.trumpfheller@lenz-energie.de",
+            "id": "36",
+            "latitude": 49.4353204,
+            "longitude": 9.0775837,
+            "name": "Lenz Energie AG",
+            "postcode": "69429",
+            "state": "Baden-W\u00fcrttemberg",
+            "telephone": "06274  927 580",
+            "formatted_address": "Talstra\u00dfe 2 A\n69429\nWaldbrunn/Schollbrunn",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Untergasse 28-32",
+            "city": "Weinheim",
+            "country": "Germany",
+            "email": "weinheim@winkler-energy.de",
+            "id": "40",
+            "latitude": 49.5562488,
+            "longitude": 8.6739645,
+            "name": "Winkler GmbH & Co. KG Verkaufsb\u00fcro Weinheim",
+            "postcode": "69469",
+            "state": "Baden-W\u00fcrttemberg",
+            "telephone": "06201  13036 o. 12865",
+            "formatted_address": "Untergasse 28-32\n69469\nWeinheim",
+            "brand": "SMP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Neckarelzer Str. 43",
+            "city": "Mosbach",
+            "country": "Germany",
+            "email": "info@herm.net",
+            "id": "206",
+            "latitude": 49.34662,
+            "longitude": 9.13511,
+            "name": "Herm GmbH & Co. KG",
+            "postcode": "74821",
+            "state": "Baden-W\u00fcrttemberg",
+            "telephone": "06261-916150",
+            "formatted_address": "Neckarelzer Str. 43\n74821\nMosbach",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Regensburger Stra\u00dfe 69",
+            "city": "Neumarkt",
+            "country": "Germany",
+            "email": "info@seitz-mineraloele.de",
+            "id": "58",
+            "latitude": 49.27117,
+            "longitude": 11.46902,
+            "name": "Seitz GmbH",
+            "postcode": "92318",
+            "state": "Bayern",
+            "telephone": "09181 8861",
+            "formatted_address": "Regensburger Stra\u00dfe 69\n92318\nNeumarkt",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Kuhallmand 26",
+            "city": "\u00d6hring",
+            "country": "Germany",
+            "email": "",
+            "id": "HZ000108",
+            "latitude": 49.196942594,
+            "longitude": 9.4982676153,
+            "name": "EDI Energie",
+            "postcode": "74613",
+            "state": "Baden-W\u00fcrttemberg",
+            "telephone": "07941 988 920",
+            "formatted_address": "Kuhallmand 26\n74613\n\u00d6hring",
+            "brand": "AVP",
+            "fuels": [
+                "gtl",
+                "biodiesel",
+                "shell_hvo",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Carl-Petersen-Str. 70-76",
+            "city": "Hamburg",
+            "country": "Germany",
+            "email": "",
+            "id": "HZ000125",
+            "latitude": 53.5579099474,
+            "longitude": 10.0470365865,
+            "name": "Nordoel Mineral\u00f6lhandelsgesellschaft MbH",
+            "postcode": "20535",
+            "state": "Hamburg",
+            "telephone": "(040) 251530-0",
+            "formatted_address": "Carl-Petersen-Str. 70-76\n20535\nHamburg",
+            "brand": "AVP",
+            "fuels": [
+                "gtl",
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "CARL-PETERSEN-STR. 70-76",
+            "city": "HAMBURG",
+            "country": "Germany",
+            "email": "info@lother.de",
+            "id": "D6000140",
+            "latitude": 53.5583,
+            "longitude": 10.04633,
+            "name": "LOTHER GMBH",
+            "postcode": "20535",
+            "state": "HAMBURG",
+            "telephone": "",
+            "formatted_address": "CARL-PETERSEN-STR. 70-76\n20535\nHAMBURG",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        },
+        {
+            "address1": "Alexander-Baumann-Stra\u00dfe 14",
+            "city": "Heilbronn",
+            "country": "Germany",
+            "email": "antonia.haaga@mogler-oil.de",
+            "id": "47",
+            "latitude": 49.1793897,
+            "longitude": 9.1786272,
+            "name": "Hermann Mogler Mineral\u00f6lgro\u00dfhandel GmbH",
+            "postcode": "74078",
+            "state": "Baden-W\u00fcrttemberg",
+            "telephone": "07131 956115",
+            "formatted_address": "Alexander-Baumann-Stra\u00dfe 14\n74078\nHeilbronn",
+            "brand": "SMP",
+            "fuels": [
+                "shell_renewable_diesel"
+            ]
+        }
+    ],
+    "clusters": []
+}

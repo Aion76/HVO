@@ -1,0 +1,28 @@
+{
+    "lang":"de-DE",
+    "name": "HVO Tankstellen Finder",
+    "short_name": "HVO Finder",
+    "description": "Eine App zum Finden von HVO Tankstellen und zur Routenplanung.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#004489",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "icons": [
+      { "src": "favicon.ico", "type": "image/x-icon", "sizes": "32x32" },
+      { "src": "icon-192.png", "type": "image/png", "sizes": "192x192" },
+      { "src": "icon-512.png", "type": "image/png", "sizes": "512x512" },
+      { "src": "icon-192-maskable.png", "type": "image/png", "sizes": "192x192", "purpose": "maskable" },
+      { "src": "icon-512-maskable.png", "type": "image/png", "sizes": "512x512", "purpose": "maskable" }
+    ],
+    "screenshots": [
+      {
+        "src": "Screenshot.png",
+        "sizes": "1918x912",
+        "type": "image/png",
+        "label": "Desktop",
+        "form_factor": "wide"
+      }
+    ]
+  }

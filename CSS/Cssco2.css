@@ -1,0 +1,210 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    font-family: 'Arial', sans-serif;
+    font-style: italic;
+    background-color: #e7ecf0;
+    color: #ffffff;
+    padding: 1em 0;
+    align-items: center;
+    display: flex;
+    justify-content: space-between; /* Optional: Verteilt den Platz zwischen den Elementen */
+}
+
+main {
+    display: flex; /* Setzt Flexbox für das Haupt-Layout ein */
+    justify-content: center; /* Zentriert die Karte und den Routenplaner horizontal */
+    align-items: flex-start; /* Richtet die Karte und den Routenplaner oben aus */
+    margin-top: 50px;
+    gap: 0px; /* Abstand zwischen Karte und Routenplaner */
+    
+}
+
+
+footer {
+    background-color: #e7ecf0;
+    color: #004489;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+#map {
+    height: 400px; /* Höhe der Karte */
+    width: 70%; /* Breite der Karte, anpassbar nach Bedarf */
+    /* max-width: 1000px; Maximale Breite der Karte */
+    border: 2px solid #004489; /* Umrandung der Karte für Sichtbarkeit */
+    margin: 0 auto; /* Zentrieren der Karte horizontal */
+    
+}
+
+img { 
+    width: auto; /* Beispiel für die Größe */
+    height: 100px;
+    margin-left: 0px; /* Optional: Fügt Abstand zwischen Text und Bild hinzu */
+}
+
+h1 {
+   color: #004489;
+   text-align: center;
+   margin-left: 30px;
+   font-size: 3em;
+}
+/* Popup-Container */
+.popup-container {
+    position: absolute;
+    background-color: #ffffff; /* Weißer Hintergrund für Klarheit */
+    padding: 15px; /* Innenabstand für mehr Platz */
+    border: 2px solid #004489; /* Blaue Border für auffällige Sichtbarkeit */
+    border-radius: 10px; /* Abgerundete Ecken für modernen Look */
+    min-width: 300px; /* Minimale Breite für genügend Platz */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Tieferer Schatten für mehr Tiefe */
+    white-space: normal; /* Textumbruch aktivieren */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modernere Schriftart */
+    font-size: 15px; /* Angenehme Schriftgröße für bessere Lesbarkeit */
+    line-height: 1.6; /* Größerer Zeilenabstand */
+    color: #333; /* Dunkelgraue Schriftfarbe für besseren Kontrast */
+    z-index: 1000; /* Sicherstellen, dass das Popup über anderen Inhalten liegt */
+}
+
+/* Popup-Inhalt */
+.popup-content {
+    margin-bottom: 10px; /* Abstand zum Schließen-Button */
+}
+
+/* Schließen-Button */
+.popup-closer {
+    display: inline-block; /* Button nebeneinander anzeigen */
+    padding: 5px 10px; /* Innenabstand für besseren Klickbereich */
+    text-decoration: none; /* Keine Unterstreichung */
+    font-size: 16px; /* Angenehme Größe für den Button */
+    color: #004489; /* Blaue Farbe für den Button */
+    background-color: #f1f1f1; /* Heller Hintergrund für den Button */
+    border: 1px solid #004489; /* Border für den Button */
+    border-radius: 5px; /* Abgerundete Ecken für den Button */
+    cursor: pointer; /* Zeiger für bessere Benutzererfahrung */
+    transition: background-color 0.3s, color 0.3s; /* Sanfte Übergänge für Hintergrund- und Textfarbe */
+}
+
+.popup-closer:hover {
+    background-color: #004489; /* Hintergrundfarbe beim Hover */
+    color: #ffffff; /* Textfarbe beim Hover */
+}
+
+a:focus, button:focus {
+    outline: 2px solid #004489; /* Beispiel für einen sichtbaren Fokus-Ring */
+    outline-offset: 2px;
+  }
+
+/* CSS für den Get Location Button */
+#get-location {
+    display: inline-block; /* Button nebeneinander anzeigen */
+    padding: 5px 10px; /* Innenabstand für besseren Klickbereich */
+    text-decoration: none; /* Keine Unterstreichung */
+    font-size: 16px; /* Angenehme Größe für den Button */
+    color: #004489; /* Blaue Farbe für den Button */
+    background-color: #f1f1f1; /* Heller Hintergrund für den Button */
+    border: 1px solid #004489; /* Border für den Button */
+    border-radius: 5px; /* Abgerundete Ecken für den Button */
+    cursor: pointer; /* Zeiger für bessere Benutzererfahrung */
+    transition: background-color 0.3s, color 0.3s; /* Sanfte Übergänge für Hintergrund- und Textfarbe */
+    margin-top: 20px; /* Abstand zum oberen Element */
+}
+
+/* Hover-Effekt für den Get Location Button */
+#get-location:hover {
+    background-color: #004489; /* Hintergrundfarbe beim Hover */
+    color: #ffffff; /* Textfarbe beim Hover */
+}
+
+#demo {
+    display: none; /* Versteckt das Element standardmäßig */
+    background-color: #f9f9f9; /* Hintergrundfarbe */
+    color: #004489; /* Textfarbe */
+    border: 1px solid #004489; /* Rand um das Element */
+    border-radius: 7px; /* Abgerundete Ecken */
+    padding: 15px; /* Innenabstand */
+    margin: 10px 0; /* Abstand oben und unten */
+    font-size: 20px; /* Schriftgröße */
+    line-height: 1.5; /* Zeilenhöhe für besseren Lesefluss */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Schatten für visuelle Tiefe */
+    width: 100%; /* Breite des Containers */
+    max-width: 300px; /* Maximale Breite, um zu verhindern, dass es zu groß wird */
+    margin-top: 20px; /* Abstand zum oberen Element */
+}
+
+/* Container für den Routenplaner */
+#route-planner {
+    background-color: #ffffff; /* Weißer Hintergrund für besseren Kontrast */
+    border: 2px solid #004489; /* Blaues Border für visuelle Abtrennung */
+    width: 20%; /* Breite der Karte, anpassbar nach Bedarf */
+    border-radius: 8px; /* Abgerundete Ecken */
+    padding: 30px; /* Innenabstand für mehr Platz */
+    margin: 20px auto; /* Abstand nach oben und unten, zentriert horizontal */
+    max-width: 600px; /* Maximale Breite für größere Bildschirme */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Schatten für mehr Tiefe */
+}
+
+/* Überschrift des Routenplaners */
+#route-planner h2 {
+    color: #004489; /* Dunkelblaue Farbe für die Überschrift */
+    margin-bottom: 15px; /* Abstand nach unten zur Form */
+    font-size: 1.5em; /* Schriftgröße für die Überschrift */
+    text-align: center; /* Zentriert die Überschrift */
+}
+
+/* Formularkontainer */
+#route-form {
+    display: flex; /* Flexbox für einfache Anordnung der Form-Elemente */
+    flex-direction: column; /* Stellt die Elemente untereinander auf */
+    gap: 10px; /* Abstand zwischen den Form-Elementen */
+}
+
+/* Label für die Eingabefelder */
+#route-form label {
+    font-size: 1em; /* Angenehme Schriftgröße */
+    color: #333333; /* Dunkelgraue Farbe für bessere Lesbarkeit */
+}
+
+/* Eingabefelder */
+#route-form input[type="text"] {
+    padding: 10px; /* Innenabstand für mehr Platz innerhalb des Eingabefeldes */
+    border: 1px solid #cccccc; /* Graues Border für die Eingabefelder */
+    border-radius: 4px; /* Abgerundete Ecken */
+    font-size: 1em; /* Angenehme Schriftgröße */
+    width: 100%; /* Volle Breite des Containers */
+    box-sizing: border-box; /* Berücksichtigt Padding und Border bei der Breitenberechnung */
+}
+
+/* Button zum Absenden des Formulars */
+#route-form button {
+    padding: 10px 15px; /* Innenabstand für besseren Klickbereich */
+    border: none; /* Entfernt die Standard-Border des Buttons */
+    border-radius: 4px; /* Abgerundete Ecken */
+    background-color: #f1f1f1; /* Dunkelblaue Hintergrundfarbe */
+    color: #004489; /* Weiße Schriftfarbe */
+    font-size: 1em; /* Angenehme Schriftgröße */
+    cursor: pointer; /* Zeiger-Cursor für bessere Benutzererfahrung */
+    transition: background-color 0.3s; /* Sanfter Übergang bei Hover */
+    border: 1px solid #004489; /* Border für den Button */
+}
+
+#route-form button:hover {
+    background-color: #004489; /* Etwas dunkleres Blau beim Hover */
+    color: #ffffff; /* Textfarbe beim Hover */
+}
+
+section {
+    display: flex; /* Aktiviert Flexbox für das Container-Element */
+    flex-direction: column; /* Richtet die Kinder-Elemente in einer Spalte an */
+    align-items: center; /* Zentriert die Elemente horizontal */
+    justify-content: center; /* Zentriert die Elemente vertikal */
+    text-align: center; /* Zentriert den Text innerhalb der Elemente */
+}
